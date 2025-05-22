@@ -1,0 +1,5 @@
+# AI_agent/requirements.txt
+openai>=0.27.0
+tiktoken>=0.5.0
+python-dotenv>=1.1.0
+requests>=2.32.3
